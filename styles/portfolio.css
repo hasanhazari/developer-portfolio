@@ -146,4 +146,13 @@ main{
 .resume .description{
     color: #757575;
 }
+.Bcolor{
+    background: #FD6E0A;
+    color: #FFF8F3;
+    font-size: 30px;
+}
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
 
